@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Jain</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<!-- <img allign="right" alt="coding" width="400" src="![image](https://github.com/Kuna1jain/kuna1jain/assets/96196312/42db450c-a4d8-412b-8ad2-f14216c0b65c)
-"> -->
+<img allign="right" alt="coding" width="400px" src="https://github.com/Kuna1jain/kuna1jain/assets/96196312/e3989d3a-825e-4a7e-924b-13f42cf2a1d9">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuna1jain&label=Profile%20views&color=0e75b6&style=flat" alt="kuna1jain" /> </p>
 
 <h3 align="left">Connect with me:</h3>
